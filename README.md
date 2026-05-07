@@ -13,6 +13,10 @@
     <img src="https://img.shields.io/badge/itch.io-aritra--chats-FA5C5C?style=flat&logo=itchdotio" />
   </a>
   &nbsp;
+  <a href="https://aritrachats.dev">
+    <img src="https://img.shields.io/badge/Portfolio-aritrachats.dev-111827?style=flat&logo=vercel" />
+  </a>
+  &nbsp;
   <a href="mailto:aritrachatterjee1904@gmail.com">
     <img src="https://img.shields.io/badge/Email-aritrachatterjee1904@gmail.com-D14836?style=flat&logo=gmail" />
   </a>
@@ -22,7 +26,7 @@
 
 ## About Me
 
-I'm a third-year CS undergrad at KIIT who builds things that ship. My work sits at the intersection of **full-stack web**, **Android**, and **game systems** — not because I can't pick a lane, but because systems thinking transfers across all three.
+I'm a fourth-year CS undergrad at KIIT who builds things that ship. My work sits at the intersection of **full-stack web**, **Android**, and **game systems** — not because I can't pick a lane, but because systems thinking transfers across all three.
 
 I architect REST APIs, build offline-first Android apps, design multiplayer netcode, and wire up LLM pipelines. The common thread: clean architecture, real constraints, working software.
 
@@ -94,9 +98,9 @@ Modular enemy AI using state machines (attack / hide / patrol / chase). Designed
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aritra-Chats&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=aritra-chats&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aritra-Chats&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=aritra-chats&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
 </p>
 
 ---
@@ -104,6 +108,7 @@ Modular enemy AI using state machines (attack / hide / patrol / chase). Designed
 ## Let's Connect
 
 - 📧 aritrachatterjee1904@gmail.com
+- 🌐 [aritrachats.dev](https://aritrachats.dev)
 - 💼 [linkedin.com/in/aritrachats](https://linkedin.com/in/aritrachats)
 - 🎮 [aritra-chats.itch.io](https://aritra-chats.itch.io)
 

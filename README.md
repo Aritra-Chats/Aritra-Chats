@@ -98,9 +98,9 @@ Modular enemy AI using state machines (attack / hide / patrol / chase). Designed
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aritra-Chats&theme=tokyonight" height="160"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aritra-chats&theme=tokyonight" height="160"/>
   &nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Aritra-Chats&theme=tokyonight" height="160"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aritra-chats&theme=tokyonight" height="160"/>
 </p>
 
 ---
